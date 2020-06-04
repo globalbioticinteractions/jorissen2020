@@ -106,28 +106,13 @@
       "datatype": "string"
     },
     {
-      "name": "Site",
-      "titles": "Site",
-      "datatype": "string"
-    },
-    {
       "name": "Seconds",
       "titles": "Seconds",
       "datatype": "string"
     },
     {
-      "name": "Site",
-      "titles": "Site",
-      "datatype": "string"
-    },
-    {
       "name": "N/S",
       "titles": "N/S",
-      "datatype": "string"
-    },
-    {
-      "name": "Degrees",
-      "titles": "Degrees",
       "datatype": "string"
     },
     {
