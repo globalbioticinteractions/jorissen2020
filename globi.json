@@ -1,0 +1,26 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/csvw",
+    {
+      "@language": "en"
+    }
+  ],
+  "rdfs:comment": [
+    "inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/"
+  ],
+  "tables": [
+    {
+      "tableSchema": "schema.json",
+      "url": "10530_2020_2288_MOESM2_ESM.tsv",
+      "doi": "10.1007/s10530-020-02288-4",
+      "dcterms:bibliographicCitation": "Jorissen, M.W.P., Huyse, T., Pariselle, A. et al. Historical museum collections help detect parasite species jumps after tilapia introductions in the Congo Basin. Biol Invasions (2020). https://doi.org/10.1007/s10530-020-02288-4", 
+      "interactionTypeId": "http://purl.obolibrary.org/obo/RO_0002454",
+      "interactionTypeName": "has host",
+      "delimiter": "\t",
+      "headerRowCount": 1,
+      "null": [
+        ""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "columns": [
+    {
+      "name": "sourceCollectionId",
+      "titles": "Collection ID",
+      "datatype": "string"
+    },
+    {
+      "name": "sourceCollectionCode",
+      "titles": "Collection Code",
+      "datatype": "string"
+    },
+    {
+      "name": "sourceCatalogNumber",
+      "titles": "Slide/Field Number",
+      "datatype": "string"
+    },
+    {
+      "name": "Depositor",
+      "titles": "Depositor",
+      "datatype": "string"
+    },
+    {
+      "name": "sourceTaxonClass",
+      "titles": "Class",
+      "datatype": "string"
+    },
+    {
+      "name": "sourceTaxonFamily",
+      "titles": "Family",
+      "datatype": "string"
+    },
+    {
+      "name": "sourceTaxonGenus",
+      "titles": "Genus",
+      "datatype": "string"
+    },
+    {
+      "name": "sourceTaxonSpecificEpithet",
+      "titles": "species",
+      "datatype": "string"
+    },
+    {
+      "name": "Author and Year",
+      "titles": "Author and Year",
+      "datatype": "string"
+    },
+    {
+      "name": "Identifier",
+      "titles": "Identifier",
+      "datatype": "string"
+    },
+    {
+      "name": "basisOfRecord",
+      "titles": "Type",
+      "datatype": "string"
+    },
+    {
+      "name": "Taxonomic Notes",
+      "titles": "Taxonomic Notes",
+      "datatype": "string" 
+    },
+    {
+      "name": "Ecology",
+      "titles": "Ecology",
+      "datatype": "string"
+    },
+    {
+      "name": "targetTaxonName",
+      "titles": "Host species",
+      "datatype": "string"
+    },
+    {
+      "name": "targetCollectionId",
+      "titles": "Host collection number",
+      "datatype": "string"
+    },
+    {
+      "name": "Country",
+      "titles": "Country",
+      "datatype": "string"
+    },
+    {
+      "name": "Province",
+      "titles": "Province",
+      "datatype": "string"
+    },
+    {
+      "name": "Municipality",
+      "titles": "Municipality",
+      "datatype": "string"
+    },
+    {
+      "name": "Site",
+      "titles": "Site",
+      "datatype": "string"
+    },
+    {
+      "name": "Degrees",
+      "titles": "Degrees",
+      "datatype": "string"
+    },
+    {
+      "name": "Minutes",
+      "titles": "Minutes",
+      "datatype": "string"
+    },
+    {
+      "name": "Site",
+      "titles": "Site",
+      "datatype": "string"
+    },
+    {
+      "name": "Seconds",
+      "titles": "Seconds",
+      "datatype": "string"
+    },
+    {
+      "name": "Site",
+      "titles": "Site",
+      "datatype": "string"
+    },
+    {
+      "name": "N/S",
+      "titles": "N/S",
+      "datatype": "string"
+    },
+    {
+      "name": "Degrees",
+      "titles": "Degrees",
+      "datatype": "string"
+    },
+    {
+      "name": "Degrees",
+      "titles": "Degrees",
+      "datatype": "string"
+    },
+    {
+      "name": "Minutes",
+      "titles": "Minutes",
+      "datatype": "string"
+    },
+    {
+      "name": "Seconds",
+      "titles": "Seconds",
+      "datatype": "string"
+    },
+    {
+      "name": "E/W",
+      "titles": "E/W",
+      "datatype": "string"
+    },
+    {
+      "name": "Collecting method",
+      "titles": "Collecting method",
+      "datatype": "string"
+    },
+    {
+      "name": "Start day",
+      "titles": "Start day",
+      "datatype": "string"
+    },
+    {
+      "name": "Start month",
+      "titles": "Start month",
+      "datatype": "string"
+    },
+    {
+      "name": "Start year",
+      "titles": "Start year",
+      "datatype": "string"
+    },
+    {
+      "name": "End day",
+      "titles": "End day",
+      "datatype": "string"
+    },
+    {
+      "name": "End month",
+      "titles": "End month",
+      "datatype": "string"
+    },
+    {
+      "name": "End year",
+      "titles": "End year",
+      "datatype": "string"
+    }
+  ]
+}
