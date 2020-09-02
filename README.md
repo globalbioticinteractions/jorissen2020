@@ -1,5 +1,5 @@
 # jorissen2020
-[![Build Status](https://travis-ci.org/globalbioticinteractions/jorissen2020.svg)](https://travis-ci.org/globalbioticinteractions/jorissen2020) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/jorissen2020)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/jorissen2020)
+[![Build Status](https://travis-ci.com/globalbioticinteractions/jorissen2020.svg)](https://travis-ci.com/globalbioticinteractions/jorissen2020) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/jorissen2020)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/jorissen2020)
 
 This repository contains configuration for Global Biotic Interactions (GloBI, https://globalbioticinteractions.org) to help index supplementary material associated with:
 
